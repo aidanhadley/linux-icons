@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:export-filename="manjaro.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs2" /><style
+     type="text/css"
+     id="style2961">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#69B53F;}
+	.st2{fill:#F8F8F8;}
+</style><g
+     id="g2968"
+     transform="scale(1.953125)">
+	<circle
+   class="st0"
+   cx="128"
+   cy="128"
+   r="128"
+   id="circle2963" />
+	<circle
+   class="st1"
+   cx="128"
+   cy="128"
+   r="108"
+   id="circle2965" />
+	<path
+   id="_x3C_Path_x3E_"
+   class="st2"
+   d="m 58,63 v 90 c 0.1,22.1 17.9,39.9 40,40 h 60 c 22.1,-0.1 39.9,-17.9 40,-40 v -50 c -0.1,-16.5 -13.5,-29.9 -30,-30 -7.4,0 -14.5,2.8 -20,7.9 -5.5,-5 -12.6,-7.8 -20,-7.9 -16.5,0.1 -29.9,13.5 -30,30 v 50 h 20 v -50 c 0,-5.5 4.5,-10 10,-10 5.5,0 10,4.5 10,10 v 50 h 20 v -50 c 0,-5.5 4.5,-10 10,-10 5.5,0 10,4.5 10,10 v 50 c 0.1,11 -8.8,19.9 -19.7,20 -0.1,0 -0.2,0 -0.3,0 H 98 c -11,0.1 -19.9,-8.8 -20,-19.7 0,-0.1 0,-0.2 0,-0.3 V 63 Z" />
+</g></svg>
