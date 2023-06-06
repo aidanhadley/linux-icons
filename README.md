@@ -2,6 +2,8 @@
 
 ![Image](./matte/endeavour/endeavour-matte512.png)
 
+*Pictured above is the matte icon for EndeavourOS*
+
 This is a collection of Icons for some of the main Linux Discord servers, although they can also have applications elsewhere. The main goal behind this is to have a central place where consistient icons and assets can be stored for anyone to use. This inistally started as just for Pride Month, but has plans to provide a simple, consistint logo design for regular use as well as special occiasions.
 
 ## Current Provided Icons
